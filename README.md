@@ -1,5 +1,6 @@
-[![Marcelo de Sousa Henrique](painel.png)]([link-do-destino](https://www.linkedin.com/in/marcellohenrique-pro))
-
+<a href="https://www.linkedin.com/in/marcellohenrique-pro" target="_blank">
+  <img src="painel.png" alt="Marcelo de Sousa Henrique">
+</a>
 
 
 
