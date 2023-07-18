@@ -1,11 +1,6 @@
 <div align="center"> 
 <div style="display: inline_block;">
 <h1> 🚀 Faaaala dev, Marcelo Aqui!😎 </h1>
-
-
-![Linkedin: in/marcellohenrique-pro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-  
 </div>
 </div>
 
@@ -41,8 +36,13 @@
     <img align="center" height="30" width="40" alt="css-icon" src="icons/css3-original.svg">
     <img align="center" height="30" width="40" alt="bootstrap" src="icons/bootstrap-4.svg">
     <img align="center" height="30" width="40" alt="C#" src="icons/c--4.svg">
+    <br><br>
+
+![Linkedin: in/marcellohenrique-pro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+  
    </div>
-   
+</div>
       
 ![Snake animation](gifs/github-contribution-grid-snake.svg)
 
