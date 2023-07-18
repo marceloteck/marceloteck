@@ -37,6 +37,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="icons/css3-original.svg">
     <img align="center" height="30" width="40" alt="bootstrap" src="icons/bootstrap-4.svg">
     <img align="center" height="30" width="40" alt="C#" src="icons/c--4.svg">
+    <img align="center" height="30" width="40" alt="Git" src="icons/git-icon.svg">
     </a>
     <br><br>
 
@@ -49,13 +50,14 @@
 
 <br>
 
-[![Snake animation](gifs/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/marcellohenrique-pro/)
+
+![Snake animation](https://github.com/marceloteck/marceloteck/blob/output/github-contribution-grid-snake.svg)
 
 
       
 <!--
 
-
+[![Snake animation](gifs/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/marcellohenrique-pro/)
     
   
   <h1 align="center">Redes Sociais</h1>
