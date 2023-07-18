@@ -16,7 +16,7 @@
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical&show_icons=true" />
 </a>
 <a href="https://www.linkedin.com/in/marcellohenrique-pro/">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloteck&layout=compact&langs_count=8&card_width=350&theme=radical&show_icons=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloteck&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" />
 </a>
     
 </div>
