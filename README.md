@@ -1,13 +1,17 @@
-<div aling"center">
+<div align="center"> 
+<div style="display: inline_block;">
 <h1> 🚀 Faaaala dev, Marcelo Aqui!</h1>
 </div>
+</div>
+
 
 <div  align="center"> 
 <div style="display: inline_block;">
 <a href="https://www.linkedin.com/in/marcellohenrique-pro" target="_blank">
 <img src="capa.png" alt="Marcelo de Sousa Henrique">
 </a>
-    
+
+  ## Habilidades em Ascensão  
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical" />
 </a>
