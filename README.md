@@ -1,18 +1,22 @@
 <div aling"center">
-  <h1> 🚀 Faaaala dev, Marcelo Aqui!</h1>
+<h1> 🚀 Faaaala dev, Marcelo Aqui!</h1>
 </div>
 
+<div  align="center"> 
+<div style="display: inline_block;">
 <a href="https://www.linkedin.com/in/marcellohenrique-pro" target="_blank">
-  <img src="capa.png" alt="Marcelo de Sousa Henrique">
+<img src="capa.png" alt="Marcelo de Sousa Henrique">
 </a>
-
+    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloteck&layout=compact&langs_count=8&card_width=350&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloteck&layout=compact&langs_count=8&card_width=350&theme=radical" />
 </a>
-
+    
+</div>
+</div>
 
 
 <!--
