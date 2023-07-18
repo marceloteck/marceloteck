@@ -12,10 +12,10 @@
 </a>
 
   ## 🤜🤛 Habilidades em Ascensão  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.linkedin.com/in/marcellohenrique-pro/">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://www.linkedin.com/in/marcellohenrique-pro/">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloteck&layout=compact&langs_count=8&card_width=350&theme=radical" />
 </a>
     
@@ -26,6 +26,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
+    <a href="https://www.linkedin.com/in/marcellohenrique-pro/"  target="_blank">
     <img align="left" height="250" alt="coding-time" src="gifs/code.gif">
     <h1 align="center">Melhores Tecnologias 😎</h1>
       <img align="center" height="30" width="40" alt="Laravel" src="icons/laravel.svg">
@@ -36,6 +37,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="icons/css3-original.svg">
     <img align="center" height="30" width="40" alt="bootstrap" src="icons/bootstrap-4.svg">
     <img align="center" height="30" width="40" alt="C#" src="icons/c--4.svg">
+    </a>
     <br><br>
 
 [![Linkedin: in/marcellohenrique-pro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellohenrique-pro)
@@ -44,7 +46,7 @@
    </div>
 </div>
       
-![Snake animation](gifs/github-contribution-grid-snake.svg)
+[![Snake animation](gifs/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/marcellohenrique-pro/)
 
 
       
