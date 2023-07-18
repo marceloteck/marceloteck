@@ -1,6 +1,9 @@
 <div align="center"> 
 <div style="display: inline_block;">
 <h1> 🚀 Faaaala dev, Marcelo Aqui!😎 </h1>
+
+
+  
 </div>
 </div>
 
@@ -22,13 +25,6 @@
 </div>
 </div>
 
-
-<!--
-<div>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloteck&layout=compact&langs_count=16&theme=great-gatsby"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloteck&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  
-</div>
 <br>
 
 <div  align="center"> 
@@ -43,6 +39,14 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
+      
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+
+      
+<!--
+
+
     
   
   <h1 align="center">Redes Sociais</h1>
@@ -60,5 +64,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
