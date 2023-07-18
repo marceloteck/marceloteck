@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/marcellohenrique-pro" target="_blank">
-  <img src="painel.png" alt="Marcelo de Sousa Henrique">
+  <img src="capa.png" alt="Marcelo de Sousa Henrique">
 </a>
 
 
