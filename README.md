@@ -1,4 +1,4 @@
-[![Marcelo de Sousa Henrique](https://github.com/marceloteck/marceloteck/blob/main/painel.png)]([link-do-destino](https://www.linkedin.com/in/marcellohenrique-pro))
+[![Marcelo de Sousa Henrique](painel.png)]([link-do-destino](https://www.linkedin.com/in/marcellohenrique-pro))
 
 
 
