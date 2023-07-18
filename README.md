@@ -30,15 +30,17 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="gifs/code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/laravel.svg">
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/vue-js-1.svg">
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/php-1.svg">
+    <h1 align="center">Melhores Tecnologias 😎</h1>
+      <img align="center" height="30" width="40" alt="Laravel" src="icons/laravel.svg">
+      <img align="center" height="30" width="40" alt="Vue.js" src="icons/vue-js-1.svg">
+      <img align="center" height="30" width="40" alt="php" src="icons/php-1.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="icons/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="icons/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="icons/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/bootstrap-4.svg">
+    <img align="center" height="30" width="40" alt="bootstrap" src="icons/bootstrap-4.svg">
+    <img align="center" height="30" width="40" alt="C#" src="icons/c--4.svg">
    </div>
+   
       
 ![Snake animation](gifs/github-contribution-grid-snake.svg)
 
