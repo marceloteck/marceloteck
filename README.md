@@ -1,8 +1,6 @@
-<div style="background-image: url('rm218-bb-07.jpg'); background-size: cover; background-position: center; height: 300px;">
-  <!-- Conteúdo do seu README.md -->
-
-
 ## Faaaala dev, Marcelo Aqui!
+
+
 
 <div>
   
@@ -42,5 +40,3 @@
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
-</div>
