@@ -1,6 +1,6 @@
 <div align="center"> 
 <div style="display: inline_block;">
-<h1> 🚀 Faaaala dev, Marcelo Aqui!</h1>
+<h1> 🚀 Faaaala dev, Marcelo Aqui!😎 </h1>
 </div>
 </div>
 
@@ -11,7 +11,7 @@
 <img src="capa.png" alt="Marcelo de Sousa Henrique">
 </a>
 
-  ## Habilidades em Ascensão  
+  ## 🤜🤛 Habilidades em Ascensão  
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical" />
 </a>
