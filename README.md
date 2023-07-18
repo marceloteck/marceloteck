@@ -3,6 +3,7 @@
 <h1> 🚀 Faaaala dev, Marcelo Aqui!😎 </h1>
 
 
+![Linkedin: in/marcellohenrique-pro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
 </div>
