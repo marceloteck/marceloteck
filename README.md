@@ -29,18 +29,18 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
+    <img align="left" height="250" alt="coding-time" src="gifs/code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/laravel.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/vue-js-1.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/php-1.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="icons/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="icons/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="icons/css3-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/bootstrap-4.svg">
    </div>
       
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](gifs/github-contribution-grid-snake.svg)
 
 
       
