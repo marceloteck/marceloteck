@@ -52,13 +52,12 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marceloteck/marceloteck/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marceloteck/marceloteck/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marceloteck/marceloteck/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution-dark.svg">
 </picture>
 
 
-      
 <!--
 
 [![Snake animation](gifs/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/marcellohenrique-pro/)
