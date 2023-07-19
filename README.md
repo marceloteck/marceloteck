@@ -64,4 +64,4 @@ Curriculo PDF:
 
 ### RESUMO DAS HABILIDADES
 
-Programação lógica, desenvolvimento de front-end, Desenvolvimento de back-end(PHP). Linguagens de programação, Bootstrap, GitHub, PHP(POO), HTML, CSS, JavaScript, C#, MySQL, AJAX. Programação orientada a objetos(POO). trabalho em equipe, comunicação interpessoal, gestão de serviços de atendimento ao cliente. Básico em edição de imagens, Básico em edição de vídeos.
+Estudando e praticando Laravel e vue.js, Programação lógica, desenvolvimento de front-end, Desenvolvimento de back-end(PHP). Linguagens de programação, Bootstrap, GitHub, PHP(POO), HTML, CSS, JavaScript, C#, MySQL, AJAX. Programação orientada a objetos(POO). trabalho em equipe, comunicação interpessoal, gestão de serviços de atendimento ao cliente. Básico em edição de imagens, Básico em edição de vídeos.
