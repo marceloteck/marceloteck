@@ -59,7 +59,7 @@ Com habilidades tanto em front-end quanto em back-end, sou comprometido, autodid
 
 Curriculo PDF: 
 
-[![Meu curriculo](icons/button_curriculo.png)](https://drive.google.com/file/d/1KLNsiY2wXaFgbBycw-nPQPW4G78AEGny/view?usp=sharing)
+[![Meu curriculo](icons/btncurriculo.png)](https://drive.google.com/file/d/1KLNsiY2wXaFgbBycw-nPQPW4G78AEGny/view?usp=sharing)
 
 ### RESUMO DAS HABILIDADES
 
