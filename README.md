@@ -50,32 +50,3 @@
 
 <br>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution.svg">
-</picture>
-
-
-<!--
-
-[![Snake animation](gifs/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/marcellohenrique-pro/)
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
-
