@@ -48,5 +48,19 @@
 </div>
 <br><br>
 
-<br>
 
+# 👨🏻‍💻 **_Sobre mim_**
+
+Desenvolvedor web apaixonado com especialização em programação back-end e experiência sólida em PHP, HTML, CSS, JavaScript e outra linguagens. 
+
+Altamente motivado a aprender novas tecnologias e frameworks, estou em busca de oportunidades que me permitam aplicar minha expertise e criar soluções eficientes. 
+
+Com habilidades tanto em front-end quanto em back-end, sou comprometido, autodidata e movido por desafios. Pronto para contribuir em projetos estimulantes e colaborar com equipes talentosas, busco um ambiente dinâmico onde possa impulsionar resultados excepcionais.
+
+Curriculo PDF: 
+
+[![Meu curriculo](icons/button_curriculo.png)](https://drive.google.com/file/d/1KLNsiY2wXaFgbBycw-nPQPW4G78AEGny/view?usp=sharing)
+
+### RESUMO DAS HABILIDADES
+
+Programação lógica, desenvolvimento de front-end, Desenvolvimento de back-end(PHP). Linguagens de programação, Bootstrap, GitHub, PHP(POO), HTML, CSS, JavaScript, C#, MySQL, AJAX. Programação orientada a objetos(POO). trabalho em equipe, comunicação interpessoal, gestão de serviços de atendimento ao cliente. Básico em edição de imagens, Básico em edição de vídeos.
