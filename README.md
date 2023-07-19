@@ -54,7 +54,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/marceloteck/marceloteck/blob/main/gifs/github-user-contribution.svg">
 </picture>
 
 
