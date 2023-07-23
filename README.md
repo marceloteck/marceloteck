@@ -67,13 +67,10 @@ Curriculo PDF:
 Estudando e praticando Laravel e vue.js, Programação lógica, desenvolvimento de front-end, Desenvolvimento de back-end(PHP). Linguagens de programação, Bootstrap, GitHub, PHP(POO), HTML, CSS, JavaScript, C#, MySQL, AJAX. Programação orientada a objetos(POO). trabalho em equipe, comunicação interpessoal, gestão de serviços de atendimento ao cliente. Básico em edição de imagens, Básico em edição de vídeos.
 
 ---
-# 💡 Ideias saindo do papel
+# 💡 Ideias em processos de estudos
 
 
 - [Implementar o laravel 10 com o vue 3 (Passo a Passo)](https://github.com/marceloteck/Instalar-Laravel10-e-Vue3-Passo-a-Passo)
-- [Variaveis vue.js e outros frameworks dentro do blade.php](https://github.com/marceloteck/LaravelVue/blob/main/C%C3%B3digos%20R%C3%A1pidos.md)
-
-- [Como preparar o Windows para aprender Laravel e Vue (Laragon)](https://github.com/marceloteck/LaravelVue/blob/main/Como-preparar-o-Windows-para-aprender-Laravel-e-Vue.md)
   
 - [Trabalhando com rotas do vue.js no menu do site](https://github.com/marceloteck/LaravelVue/blob/main/Menu%20e%20rotas%20no%20vue.js.md)
 
