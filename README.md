@@ -1,6 +1,7 @@
 <div align="center"> 
 <div style="display: inline_block;">
-<h1> 🚀 Faaaala dev, Marcelo Aqui!😎 </h1>
+<h1 align="center">Olá 👋, Sou Marcelo Henrique</h1>
+<h3 align="center">Desenvolvedor Full-stack Junior</h3>
 </div>
 </div>
 
@@ -11,6 +12,9 @@
 <img src="capa.png" alt="Marcelo de Sousa Henrique">
 </a>
 
+
+
+
   ## 🤜🤛 Habilidades em Ascensão  
 <a href="https://www.linkedin.com/in/marcellohenrique-pro/">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloteck&theme=radical&show_icons=true&rank_icon=github" />
@@ -18,9 +22,13 @@
 <a href="https://www.linkedin.com/in/marcellohenrique-pro/">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloteck&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" />
 </a>
+<br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceloteck&" alt="marceloteck" /></p>
     
 </div>
 </div>
+
+
 
 <br>
 
@@ -28,7 +36,7 @@
   <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/marcellohenrique-pro/"  target="_blank">
     <img align="left" height="250" alt="coding-time" src="gifs/code.gif">
-    <h1 align="center">Melhores Tecnologias 😎</h1>
+    <h1 align="center">Linguagens e ferramentas 😎</h1>
       <img align="center" height="30" width="40" alt="Laravel" src="icons/laravel.svg">
       <img align="center" height="30" width="40" alt="Vue.js" src="icons/vue-js-1.svg">
       <img align="center" height="30" width="40" alt="php" src="icons/php-1.svg">
@@ -38,6 +46,8 @@
     <img align="center" height="30" width="40" alt="bootstrap" src="icons/bootstrap-4.svg">
     <img align="center" height="30" width="40" alt="C#" src="icons/c--4.svg">
     <img align="center" height="30" width="40" alt="Git" src="icons/git-icon.svg">
+    <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" />
+      <img align="center" height="30" width="40"  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
     </a>
     <br><br>
 
@@ -87,3 +97,13 @@ Estudando e praticando Laravel e vue.js, Programação lógica, desenvolvimento 
 
 # 📌 Portfólio (Em breve)
 Em breve estarei postando aqui o link do meu portfólio.
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marceloteck" alt="marceloteck" />
+  </a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloteck&label=Profile%20views&color=0e75b6&style=flat" alt="marceloteck" /> </p>
+
+
