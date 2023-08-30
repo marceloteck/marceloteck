@@ -7,7 +7,7 @@
 
 
 # 💫 Sobre mim:
-Desenvolvedor web apaixonado com especialização em programação back-end e experiência sólida em PHP, HTML, CSS, JavaScript e outra linguagens.<br><br>Altamente motivado a aprender novas tecnologias e frameworks, estou em busca de oportunidades que me permitam aplicar minha expertise e criar soluções eficientes.<br><br>Com habilidades tanto em front-end quanto em back-end, sou comprometido, autodidata e movido por desafios. Pronto para contribuir em projetos estimulantes e colaborar com equipes talentosas, busco um ambiente dinâmico onde possa impulsionar resultados excepcionais.
+Desenvolvedor web apaixonado com especialização em programação back-end e experiência sólida em PHP, HTML, CSS, JavaScript e outras linguagens.<br><br>Altamente motivado a aprender novas tecnologias e frameworks, estou em busca de oportunidades que me permitam aplicar minha expertise e criar soluções eficientes.<br><br>Com habilidades tanto em front-end quanto em back-end, sou comprometido, autodidata e movido por desafios. Pronto para contribuir em projetos estimulantes e colaborar com equipes talentosas, busco um ambiente dinâmico onde possa impulsionar resultados excepcionais.
 
 
 ## 🌐 Redes Sociais:
