@@ -1,13 +1,21 @@
-<div align="center"> 
-<div style="display: inline_block;">
-<h1 align="center">Olá 👋, Sou Marcelo Henrique</h1>
-<h3 align="center">Desenvolvedor Full-stack Junior</h3>
-</div>
+<div align="center">
+  <h1>👋 Olá, eu sou Marcelo Henrique</h1>
+  <h3>Desenvolvedor Full-stack</h3>
 </div>
 
+## 🚀 Sobre mim
+Sou um desenvolvedor web apaixonado por criar soluções eficientes e escaláveis. Tenho experiência sólida em programação back-end, utilizando PHP, JavaScript e bancos de dados MySQL. Também possuo conhecimentos em HTML, CSS e frameworks como Laravel e Vue.js. Estou constantemente aprendendo novas tecnologias e me mantendo atualizado com as melhores práticas de desenvolvimento.
 
-# 💫 Sobre mim:
-Desenvolvedor web apaixonado com especialização em programação back-end e experiência sólida em PHP, HTML, CSS, JavaScript e outras linguagens.<br><br>Altamente motivado a aprender novas tecnologias e frameworks, estou em busca de oportunidades que me permitam aplicar minha expertise e criar soluções eficientes.<br><br>Com habilidades tanto em front-end quanto em back-end, sou comprometido, autodidata e movido por desafios. Pronto para contribuir em projetos estimulantes e colaborar com equipes talentosas, busco um ambiente dinâmico onde possa impulsionar resultados excepcionais.
+## 💼 Habilidades
+
+- Experiência em programação lógica, front-end e back-end: PHP (Laravel), HTML, CSS, JavaScript (Vue.js), C#, e MySQL.
+- Conhecimento avançado em Bootstrap para interfaces responsivas.
+- Proficiente em controle de versão e colaboração com o GitHub.
+- Experiência em AJAX e Inertia.js para interatividade em aplicações web.
+- Habilidades em programação orientada a objetos (POO) para escalabilidade.
+- Trabalho colaborativo e boa comunicação em equipe.
+- Gestão de atendimento ao cliente para garantir satisfação.
+- Conhecimento em Python, Java (Spring Boot) e metodologias ágeis.
 
 
 ## 🌐 Redes Sociais:
