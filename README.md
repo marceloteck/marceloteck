@@ -1,5 +1,5 @@
-<h1 style="color:#6DB33F;">
-<strong>💡 Marcelo de Sousa Henrique</strong>
+<h1>
+<strong> Marcelo de Sousa Henrique</strong>
 </h1>
 
 <h3>
@@ -7,11 +7,18 @@
 </h3>
 
 <br>
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=4000&color=ffffff&random=false&lines=Olá,+seja+muito+bem-vindo!!!)](https://git.io/typing-svg)-->
+
+
+<div style="widh:400px; heigh:400px; background-color: #fff;">
 <center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=4000&color=6DB33F&random=false&lines=Olá,+seja+muito+bem-vindo!!!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=4000&color=ffffff&random=false&lines=Olá,+seja+muito+bem-vindo!!!" />
 
 </center>
+</div>
+
 
 ## 🌐 Vamos conectar?
 
@@ -47,7 +54,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
@@ -61,7 +67,6 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
